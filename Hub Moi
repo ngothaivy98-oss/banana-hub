@@ -91,6 +91,19 @@ getgenv().VxezeKaitun = {
         ["Ice Serpent"] = true,
     },
 
+    -- Shovel Seed Whitelist
+    ShovelSeedEnabled = {
+        All = false,
+        Carrot = true,
+        Strawberry = true,
+        Blueberry = true,
+        Tulip = true,
+        Tomato = true,
+        Apple = true,
+        Corn = true,
+        Cactus = true,
+    },
+
     -- Buy Seed Whitelist
     BuySeedEnabled = {
         All = false,
@@ -143,19 +156,6 @@ getgenv().VxezeKaitun = {
         ["Glow Mushroom"] = true,
         Romanesco = true,
         ["Horned Melon"] = true,
-    },
-
-   -- Shovel Seed Whitelist
-    ShovelSeedEnabled = {
-        All = false,
-        Carrot = true,
-        Strawberry = true,
-        Blueberry = true,
-        Tulip = true,
-        Tomato = true,
-        Apple = true,
-        Corn = true,
-        Cactus = true,
     },
 
     GearEnabled = {
