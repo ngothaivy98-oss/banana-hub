@@ -1,4 +1,4 @@
-getgenv().Key = "da78750b41aaf5af07acbd5e" 
+getgenv().Key = "" 
 
 getgenv().Config = {
     ["Max Plant Fruit"] = 200,
